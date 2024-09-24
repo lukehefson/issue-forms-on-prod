@@ -1,0 +1,14 @@
+name: Systems / Infrastructure work
+description: Scalability, devops, database optimisation, performance etc.
+projects: ["workbrew/1"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - Describe the problem 💭
+        - What solution do you think is best and what will be the impact? 🛠️
+        - Add any other useful context 🗺️
+        - Add any relevant labels 🏷️
+  - type: textarea
+    attributes:
+      label: Issue description
