@@ -5,7 +5,7 @@ projects: ["workbrew/1"]
 body:
   - type: markdown
     attributes:
-      value: "Please add any relevant labels"
+      value: "Please add any relevant labels →"
   - type: textarea
     attributes:
       label: What were you trying to do (and why)?
