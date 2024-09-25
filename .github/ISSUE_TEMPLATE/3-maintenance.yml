@@ -1,5 +1,5 @@
 name: Maintenance
-description: "All non-user visible work such as: Infrastructure, devops, database optimisation, performance, security, compliance etc."
+description: "All non-user visible work such as: Infrastructure, performance, security, compliance etc."
 projects: ["workbrew/1"]
 body:
   - type: markdown
