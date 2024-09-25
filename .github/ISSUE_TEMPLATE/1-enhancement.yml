@@ -16,5 +16,5 @@ body:
       description: "When possible, link back to an issue on [/market-feedback](https://github.com/Workbrew/market-feedback)"
   - type: textarea
     attributes:
-      label: What solution do you think is best and what will be the impact?
+      label: What solution do you propose and what will be the impact?
       description: "Also list any alternative solutions you've considered"
