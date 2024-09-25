@@ -18,6 +18,3 @@ body:
     attributes:
       label: What solution do you think is best and what will be the impact?
       description: "Also list any alternative solutions you've considered"
-  - type: textarea
-    attributes:
-      label: 
