@@ -1,17 +1,15 @@
 name: Enhancement
-description: User-facing features, new capabilites, UX improvements, etc.
+description: User-facing new features, new capabilites or UX improvements to existing features, etc.
 labels: ["enhancement"]
 projects: ["workbrew/1"]
 body:
   - type: markdown
     attributes:
       value: |
-        - Add any relevant labels 🏷️
-        - Describe the problem and/or link back to an issue on https://github.com/Workbrew/market-feedback 🎯
-        - What solution do you think is best and what will be the impact? 🛠️
-        - List any alternatives you've considered 📚
-        - Provide before/after screenshots if this is a UI change 🖼️
-        - Add any other useful context 🗺️
+        - Please add the following labels:
+          - `console`, `agent` or `homebrew`
+          - A size
+          - Any other relevant labels
   - type: textarea
     attributes:
       label: Issue description
