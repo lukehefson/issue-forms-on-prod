@@ -13,7 +13,7 @@ body:
   - type: textarea
     id: repro
     attributes:
-      label: Describe the problem and/or link back to an issue on https://github.com/Workbrew/market-feedback
+      label: Describe the problem and/or link back to an issue on [/market-feedback](https://github.com/Workbrew/market-feedback)
       description: "How do you trigger this bug? Please walk us through it step by step."
       value: |
         1.
