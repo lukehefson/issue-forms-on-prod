@@ -12,4 +12,19 @@ body:
         - Add any other useful context 🗺️
   - type: textarea
     attributes:
-      label: Issue description
+      label: What were you trying to do (and why)?
+  - type: textarea
+    attributes:
+      label: What happened?
+  - type: textarea
+    attributes:
+      label: What did you expect to happen?
+  - type: textarea
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
