@@ -3,7 +3,7 @@ description: Something doesn't work as it should or has regressed in behaviour
 labels: ["bug"]
 projects: ["workbrew/1"]
 body:
-  - type: textarea
+  - type: input
     attributes:
       label: What were you trying to do (and why)?
   - type: textarea
