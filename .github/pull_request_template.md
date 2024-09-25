@@ -2,8 +2,10 @@
 
 Closes: #
 
-<!-- Please provide before/after screenshots if this is a UI change. -->
+<!-- Please provide before/after screenshots if this is a UI change. Exmaple:
 
 | Before | After |
 |--------|--------|
 | 🌇 | 🌃 | 
+
+-->
