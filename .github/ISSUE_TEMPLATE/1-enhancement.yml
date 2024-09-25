@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         - Please add the following labels:
-          - `console`, `agent` or `homebrew`
-          - A size
-          - Any other relevant labels
+            - `console`, `agent` or `homebrew`
+            - `size: `
+            - Any other relevant labels
   - type: textarea
     attributes:
       label: Issue description
