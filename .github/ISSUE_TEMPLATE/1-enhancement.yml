@@ -21,6 +21,4 @@ body:
   - type: textarea
     attributes:
       label: Any other useful context 
-      description: |
-        - User flows
-        - Links
+      description: "User flows, external links, quotes etc."
