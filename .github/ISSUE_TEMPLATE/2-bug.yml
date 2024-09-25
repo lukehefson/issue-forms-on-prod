@@ -16,7 +16,7 @@ body:
   - type: textarea
     attributes:
       label: Reproduction steps
-      description: "How do you trigger this bug? Please detail it it step by step."
+      description: "How do you trigger this bug? Please provide step by step instructions."
       value: |
         1.
         2.
