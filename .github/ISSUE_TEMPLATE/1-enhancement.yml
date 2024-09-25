@@ -18,3 +18,9 @@ body:
     attributes:
       label: What solution do you propose and what will be the impact?
       description: "Also list any alternative solutions you've considered"
+  - type: textarea
+    attributes:
+      label: Any other useful context 
+      description: |
+        - User flows
+        - Links
