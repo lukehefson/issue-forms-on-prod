@@ -5,11 +5,7 @@ projects: ["workbrew/1"]
 body:
   - type: markdown
     attributes:
-      value: |
-        - What steps can be taken to recreate this and what is the expected behaviour? 🐞
-        - Provide before/after screenshots if this is a UI change 🖼️
-        - Add any relevant labels 🏷️
-        - Add any other useful context 🗺️
+      value: "Please add any relevant labels"
   - type: textarea
     attributes:
       label: What were you trying to do (and why)?
