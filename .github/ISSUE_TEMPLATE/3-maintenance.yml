@@ -5,10 +5,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        - Describe the problem 💭
-        - What solution do you think is best and what will be the impact? 🛠️
-        - Add any other useful context 🗺️
-        - Add any relevant labels 🏷️
+        - Please add the following labels:
+            - `console`, `agent` or `homebrew`
+            - A `size: ` label
+            - Any other relevant labels
   - type: textarea
     attributes:
       label: Issue description
