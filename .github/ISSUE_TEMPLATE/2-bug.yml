@@ -22,3 +22,6 @@ body:
         2.
         3.
         ...
+  - type: markdown
+    attributes:
+      value: Please add any additional labels
