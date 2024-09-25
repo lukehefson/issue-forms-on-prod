@@ -11,7 +11,10 @@ body:
             - A `size: ` label
             - Any other relevant labels
   - type: textarea
-    id: repro
     attributes:
       label: Describe the problem
       description: "If possible, link back to an issue on [/market-feedback](https://github.com/Workbrew/market-feedback)"
+  - type: textarea
+    attributes:
+      label: What solution do you think is best and what will be the impact?
+      description: "test"
