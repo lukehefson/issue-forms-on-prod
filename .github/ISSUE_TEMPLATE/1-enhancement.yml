@@ -21,5 +21,3 @@ body:
         3.
         ...
       render: bash
-    validations:
-      required: false
