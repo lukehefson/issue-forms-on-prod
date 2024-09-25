@@ -22,4 +22,4 @@ body:
         ...
       render: bash
     validations:
-      required: true
+      required: false
