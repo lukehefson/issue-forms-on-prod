@@ -1,5 +1,5 @@
-name: Systems / Infrastructure work
-description: Scalability, devops, database optimisation, performance etc.
+name: Maintenance
+description: All non-user visible work such as: Systems, infrastructure, devops, database optimisation, performance, security, compliance etc.
 projects: ["workbrew/1"]
 body:
   - type: markdown
