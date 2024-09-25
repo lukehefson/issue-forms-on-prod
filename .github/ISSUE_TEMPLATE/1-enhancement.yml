@@ -13,3 +13,8 @@ body:
   - type: textarea
     attributes:
       label: Issue description
+      description: |
+        - Please add the following labels:
+            - `console`, `agent` or `homebrew`
+            - A `size: ` label
+            - Any other relevant labels
