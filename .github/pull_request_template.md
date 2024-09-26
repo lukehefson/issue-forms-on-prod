@@ -1,8 +1,14 @@
-<!-- Reference an issue on /product-engineering or /market-research for this PR to close on merge. -->
+<!--
+If there is an associated issue on /product-engineering
+or /market-research, please use the following 'closing keyword'
+to reference the issue so that this PR will close it on merge.
+-->
 
 Closes: #
 
-<!-- Please provide before/after screenshots if this is a UI change. Exmaple:
+<!--
+If this is a UI change, please provide before/after screenshots.
+Example:
 
 | Before | After |
 |--------|--------|
