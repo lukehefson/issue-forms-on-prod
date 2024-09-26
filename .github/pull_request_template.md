@@ -1,7 +1,7 @@
 <!--
 If there is an associated issue on /product-engineering
 or /market-research, please use the following 'closing keyword'
-to reference the issue so that this PR will close it on merge.
+to reference the issue – so that this PR will close it on merge.
 -->
 
 Closes: #
