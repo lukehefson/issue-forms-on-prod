@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ⚠️ Please add requestors in a new comment with as much context as possible
+        ⚠️ Please add customer requests in a new comment with as much context as possible
         
         🏷️ Labels are cheap and help to draw connections between product themes. Go nuts →
   - type: textarea
