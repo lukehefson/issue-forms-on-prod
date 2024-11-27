@@ -12,7 +12,7 @@ body:
     attributes:
       label: Outcome(s)
       description: |
-        Provide as many details on 'the Whys' and problem statements behind this as you can. What 'job' does 
+        Provide as many details on 'the Whys' and problem statements behind this as you can. What 'job' would a user (or we ourselves) hire this thing to do?
         It's ok if the outcomes are unclear – we can keep exploring, discussing and updating the original issue description.
       placeholder: "e.g. [Persona] need to be able to [something] because they have [problem]."
   - type: textarea
