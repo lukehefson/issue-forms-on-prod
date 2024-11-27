@@ -13,15 +13,15 @@ body:
       label: Outcome(s) for users
       description: |
         Provide as many details on 'the Whys' and problem statements behind this as you can.
-        It's ok if the outcomes are unclear – we can keep exploring, discussing and updating the original issue description
+        It's ok if the outcomes are unclear – we can keep exploring, discussing and updating the original issue description.
       placeholder: "e.g. [Persona] need to be able to [something] because they have [problem]."
   - type: textarea
     attributes:
       label: (Non-prescriptive) Suggestions or ideas
       description: |
         Help us understand the outcomes by painting a picture of the solution space.
-        For example: What feedback is being suggested? What might a user-flow look like?
-        Nothing in this section represents a final specification or full scope of what we might build.
+        For example: What feedback is being suggested? What could a user-flow look like?
+        Note that this section does not denote a final specification or full scope of what we might build.
   - type: textarea
     attributes:
       label: Additional thoughts/questions
