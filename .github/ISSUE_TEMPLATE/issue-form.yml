@@ -17,7 +17,7 @@ body:
       placeholder: "e.g. [Persona] need to be able to [something] because they have [problem]."
   - type: textarea
     attributes:
-      label: (Non-prescriptive) Suggestions or ideas
+      label: Suggestions or ideas
       description: |
         Help us understand the outcomes by painting a picture of the solution space.
         For example: What feedback is being suggested? What could a user-flow look like?
