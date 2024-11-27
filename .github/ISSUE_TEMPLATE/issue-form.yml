@@ -10,13 +10,17 @@ body:
         🏷️ Labels are cheap and help to draw connections between product themes. Go nuts →
   - type: textarea
     attributes:
-      label: Why?
-      description: "More details on the *outcome(s)* for users this enables."
+      label: Outcome(s) for users this enables
+      description: |
+        Provide as many detials on 'the Whys' and problem statements behind this as you can
+        It's ok if the outcomes are fuzzy – we can keep exploring, discussing and updating the orginal issue description
       placeholder: "e.g. [Persona] need to be able to [something] because they have [problem]."
   - type: textarea
     attributes:
-      label: What?
-      description: "What is being suggested? What is the user-flow?"
+      label: Non-perscriptuive suggestions for what might get us to the user outcomes
+      description: |
+        Help us understand the outcomes by painting a picture of the solution space
+        For example: What is being suggested? What might a user-flow look like?
   - type: textarea
     attributes:
       label: Additional thoughts/questions
