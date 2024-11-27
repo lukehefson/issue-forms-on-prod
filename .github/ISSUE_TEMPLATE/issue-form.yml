@@ -21,7 +21,7 @@ body:
       description: |
         Help us understand the outcomes by painting a picture of the solution space.
         For example: What feedback is being suggested? What could a user-flow look like?
-        Note that this section does not denote a final specification or full scope of what we might build.
+        Note that this section does not denote a final specification or full scope of what we might build. That comes later.
   - type: textarea
     attributes:
       label: Additional thoughts/questions
