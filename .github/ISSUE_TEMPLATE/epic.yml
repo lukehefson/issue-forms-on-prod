@@ -10,7 +10,7 @@ body:
   - type: textarea
     attributes:
       label: Theme & Goals
-      description: "What is the high-level goal of this Epic? Define the scope and what success looks like."
+      description: "What is the high-level goal of this Epic? Define the high-level problems and what success looks like."
   - type: textarea
     attributes:
       label: Sub-Issues
