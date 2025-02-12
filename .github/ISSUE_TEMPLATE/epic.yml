@@ -1,0 +1,36 @@
+name: Epic
+description: A parent-issue for a theme we want to ship over a shape-up cycle
+projects: ["workbrew/1"]
+labels: ["🦑 size: large"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please add any other relevant labels →
+  - type: textarea
+    attributes:
+      label: Theme & Goals
+      description: "What is the high-level goal of this Epic? Define the scope and what success looks like."
+  - type: textarea
+    attributes:
+      label: Sub-Issues
+      description: "List the related issues that contribute to this Epic."
+      value: |
+        - [ ] Issue 1 (#issue-link)
+        - [ ] Issue 2 (#issue-link)
+  - type: textarea
+    attributes:
+      label: End-to-End User Flow(s)
+      description: "Describe the ideal user experience(s) in a bulleted list. Include diagrams or mockups if applicable."
+  - type: textarea
+    attributes:
+      label: Rollout
+      description: "What’s the rollout strategy (e.g. staff-ship, straight to public-ship, private beta with a customer) and what plan does it target?"
+      placeholder:  |
+        Examples:
+        - Staff-ship while we dogfood before publicly shipping
+        - Enterprise plan only
+  - type: textarea
+    attributes:
+      label: Documentation
+      description: "Will there be in-app or standalone docs that need updating?"
