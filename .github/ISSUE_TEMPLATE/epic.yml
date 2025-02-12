@@ -16,8 +16,8 @@ body:
       label: Sub-Issues
       description: "List the related issues that contribute to this Epic."
       value: |
-        - [ ] Issue 1 (#issue-link)
-        - [ ] Issue 2 (#issue-link)
+        - [ ] #issue-link-1
+        - [ ] #issue-link-2
   - type: textarea
     attributes:
       label: End-to-End User Flow(s)
