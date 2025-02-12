@@ -10,7 +10,7 @@ body:
   - type: textarea
     attributes:
       label: Theme & Goals
-      description: "What is the high-level goal of this Epic? Define the high-level problems and what success looks like and link to any and all related issues on [/product-discovery](https://github.com/Workbrew/product-discovery/issues) so that reader can learn more about the outcomes we're building for."
+      description: "What is the high-level goal of this Epic? Define the high-level problems and what success looks like and link to any and all related issues on [/product-discovery](https://github.com/Workbrew/product-discovery/issues) so that readers can learn more about the outcomes we're building for."
   - type: textarea
     attributes:
       label: Sub-Issues
