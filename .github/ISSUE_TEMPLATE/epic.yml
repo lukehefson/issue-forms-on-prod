@@ -33,4 +33,4 @@ body:
   - type: textarea
     attributes:
       label: Documentation
-      description: "Will there be in-app or standalone docs that need updating?"
+      description: "Will there be in-app or [standalone](https://console.workbrew.com/documentation) docs that need updating?"
