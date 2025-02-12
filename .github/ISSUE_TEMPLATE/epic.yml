@@ -1,5 +1,5 @@
 name: Epic
-description: A parent-issue for a theme we want to ship over a shape-up cycle
+description: Parent-issue for a theme we want to ship over a shape-up cycle
 projects: ["workbrew/1"]
 labels: ["🦑 size: large"]
 body:
