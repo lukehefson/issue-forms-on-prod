@@ -20,8 +20,8 @@ body:
         - [ ] #issue-link-2
   - type: textarea
     attributes:
-      label: End-to-End User Flow(s)
-      description: "Describe the ideal user experience(s) in a bulleted list. Include diagrams/mockups etc. if applicable."
+      label: End-to-End User Flows
+      description: "Describe the ideal user experiences in a bulleted list. Consider describing both the Admin and End-User experience if applicable."
   - type: textarea
     attributes:
       label: Rollout
