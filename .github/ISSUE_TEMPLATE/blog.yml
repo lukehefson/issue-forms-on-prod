@@ -1,0 +1,41 @@
+---
+name: Blog Post
+about: Plan and publish a blog post.
+title: 'Blog Post: Title'
+labels: [marketing]
+assignees: []
+body:
+  - type: input
+    id: blog_subject
+    attributes:
+      label: "What is the subject of the blog?"
+      description: "High level overview of what the blog will focus on."
+      placeholder: "Provide 2-3 lines."
+    validations:
+      required: true
+  - type: input
+    id: publish_month
+    attributes:
+      label: "Publish Date"
+      description: "What is the anticipated publish month?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: todo
+    attributes:
+      label: "To Do"
+      description: "Checklist for blog post tasks."
+      options:
+        - label: "Write blog"
+          value: "write_blog"
+        - label: "Request design assets"
+          value: "request_design_assets"
+        - label: "Create Webflow page"
+          value: "create_webflow_page"
+        - label: "Prepare social copy"
+          value: "prepare_social_copy"
+  - type: markdown
+    attributes:
+      # This markdown field includes an HTML comment that presets the project type to "Blog"
+      value: "<!-- project_type: Blog -->"
+
