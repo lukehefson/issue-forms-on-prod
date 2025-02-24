@@ -1,6 +1,6 @@
 ---
 name: Blog Post
-about: Plan and publish a blog post.
+description: Plan and publish a blog post.
 title: 'Blog Post: Title'
 labels: [marketing]
 assignees: []
